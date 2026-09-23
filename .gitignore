@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+
+# Generated artifacts and private inputs should remain outside a public scripts repo.
+data/
+*.xlsx
+*.xls
+*.pdf
+
